@@ -15,14 +15,14 @@
   body {
     width: 600px;
     margin: 0 auto;
-    background-color: #8a9aa5;
+    background-color: #8faebd;
     padding: 0 20px 20px 20px;
-    border: 5px solid rgb(15, 99, 29);
+    border: 5px solid rgba(21, 55, 209, 0.911);
   }
   img {
     display: block;
     margin: 0 auto;
   }
   html {
-    background-color: #00539F;
+    background-color: #f2f2f2;
   }
